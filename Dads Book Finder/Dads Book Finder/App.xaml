@@ -4,17 +4,12 @@
              xmlns:local="clr-namespace:Dads_Book_Finder"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-        <Style TargetType="Window">
-            <Setter Property="WindowStyle" Value="None"/>
-            <Setter Property="AllowsTransparency" Value="True"/>
-            <Setter Property="Background" Value="Transparent"/>
+        <Style TargetType="Label">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontFamily" Value="HP Simplified Light"/>
         </Style>
-
-        <Style TargetType="Border">
-            <Setter Property="CornerRadius" Value="20"/>
-            <Setter Property="Background" Value="#001d3d"/>
-            <Setter Property="BorderThickness" Value="0"/>
-
+        <Style BasedOn="{StaticResource {x:Type Label}}" TargetType="Label" x:Key="WindowTitle">
+            <Setter Property="FontSize" Value="25"/>
         </Style>
     </Application.Resources>
 </Application>

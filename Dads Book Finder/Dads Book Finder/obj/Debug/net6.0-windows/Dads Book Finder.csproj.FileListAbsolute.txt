@@ -19,3 +19,4 @@ C:\Users\hanna\Documents\GitHub\Dad-s-Book-Finder\Dads Book Finder\Dads Book Fin
 C:\Users\hanna\Documents\GitHub\Dad-s-Book-Finder\Dads Book Finder\Dads Book Finder\obj\Debug\net6.0-windows\Dads Book Finder.pdb
 C:\Users\hanna\Documents\GitHub\Dad-s-Book-Finder\Dads Book Finder\Dads Book Finder\obj\Debug\net6.0-windows\Dads Book Finder.genruntimeconfig.cache
 C:\Users\hanna\Documents\GitHub\Dad-s-Book-Finder\Dads Book Finder\Dads Book Finder\obj\Debug\net6.0-windows\ref\Dads Book Finder.dll
+C:\Users\hanna\Documents\GitHub\Dad-s-Book-Finder\Dads Book Finder\Dads Book Finder\obj\Debug\net6.0-windows\App.baml
