@@ -1,11 +1,33 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    "net6.0-windows7.0": {
+      "BookFinderClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BookFinderClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookFinderClassLibrary.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BookFinderClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../BookFinderClassLibrary/BookFinderClassLibrary.csproj",
+      "msbuildProject": "../BookFinderClassLibrary/BookFinderClassLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    "net6.0-windows7.0": [
+      "BookFinderClassLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\hanna\\.nuget\\packages\\": {},
@@ -41,7 +63,11 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\hanna\\Documents\\GitHub\\Dad-s-Book-Finder\\Dads Book Finder\\BookFinderClassLibrary\\BookFinderClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\hanna\\Documents\\GitHub\\Dad-s-Book-Finder\\Dads Book Finder\\BookFinderClassLibrary\\BookFinderClassLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

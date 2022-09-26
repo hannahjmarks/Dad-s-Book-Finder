@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hanna\\Documents\\GitHub\\Dad-s-Book-Finder\\DadsBookFinderCustomClassLibrary\\DadsBookFinderCustomClassLibrary\\DadsBookFinderCustomClassLibrary.csproj": {}
+    "C:\\Users\\hanna\\Documents\\GitHub\\Dad-s-Book-Finder\\Dads Book Finder\\BookFinderClassLibrary\\BookFinderClassLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hanna\\Documents\\GitHub\\Dad-s-Book-Finder\\DadsBookFinderCustomClassLibrary\\DadsBookFinderCustomClassLibrary\\DadsBookFinderCustomClassLibrary.csproj": {
+    "C:\\Users\\hanna\\Documents\\GitHub\\Dad-s-Book-Finder\\Dads Book Finder\\BookFinderClassLibrary\\BookFinderClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hanna\\Documents\\GitHub\\Dad-s-Book-Finder\\DadsBookFinderCustomClassLibrary\\DadsBookFinderCustomClassLibrary\\DadsBookFinderCustomClassLibrary.csproj",
-        "projectName": "DadsBookFinderCustomClassLibrary",
-        "projectPath": "C:\\Users\\hanna\\Documents\\GitHub\\Dad-s-Book-Finder\\DadsBookFinderCustomClassLibrary\\DadsBookFinderCustomClassLibrary\\DadsBookFinderCustomClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\hanna\\Documents\\GitHub\\Dad-s-Book-Finder\\Dads Book Finder\\BookFinderClassLibrary\\BookFinderClassLibrary.csproj",
+        "projectName": "BookFinderClassLibrary",
+        "projectPath": "C:\\Users\\hanna\\Documents\\GitHub\\Dad-s-Book-Finder\\Dads Book Finder\\BookFinderClassLibrary\\BookFinderClassLibrary.csproj",
         "packagesPath": "C:\\Users\\hanna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hanna\\Documents\\GitHub\\Dad-s-Book-Finder\\DadsBookFinderCustomClassLibrary\\DadsBookFinderCustomClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\hanna\\Documents\\GitHub\\Dad-s-Book-Finder\\Dads Book Finder\\BookFinderClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

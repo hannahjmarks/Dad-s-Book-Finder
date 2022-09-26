@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dads Book Finder", "Dads Book Finder\Dads Book Finder.csproj", "{CF89A856-9D1D-44F7-9545-8A3D712F18D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookFinderClassLibrary", "BookFinderClassLibrary\BookFinderClassLibrary.csproj", "{6156292A-0CC7-4838-9150-1B4EF7340D1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CF89A856-9D1D-44F7-9545-8A3D712F18D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF89A856-9D1D-44F7-9545-8A3D712F18D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF89A856-9D1D-44F7-9545-8A3D712F18D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6156292A-0CC7-4838-9150-1B4EF7340D1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6156292A-0CC7-4838-9150-1B4EF7340D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6156292A-0CC7-4838-9150-1B4EF7340D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6156292A-0CC7-4838-9150-1B4EF7340D1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
